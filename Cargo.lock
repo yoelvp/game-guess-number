@@ -26,7 +26,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "guessing_app"
+name = "game_guess_number"
 version = "0.1.0"
 dependencies = [
  "rand",
